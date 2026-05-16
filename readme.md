@@ -1,6 +1,6 @@
 # ⚡ AutoHotkey Shortcuts
 
-Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằng tổ hợp phím `Win + phím`
+Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằng tổ hợp phím `Alt + phím`
 
 ---
 
@@ -8,13 +8,13 @@ Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằn
 
 | Phím tắt  | Ứng dụng               |
 | --------- | ---------------------- |
-| `Win +Q ` | Visual Studio 2022     |
-| `Win +W ` | Visual Studio Code     |
-| `Win +A ` | Claude                 |
-| `Win +S ` | ChatGPT                |
-| `Win +1 ` | Google Docs (Tài liệu) |
-| `Win +2 ` | Focus To-Do            |
-| `Win +` ` | Word                   |
+| `Alt +Q ` | Visual Studio 2022     |
+| `Alt +W ` | Visual Studio Code     |
+| `Alt +A ` | Claude                 |
+| `Alt +S ` | ChatGPT                |
+| `Alt +1 ` | Google Docs (Tài liệu) |
+| `Alt +2 ` | Focus To-Do            |
+| `Alt +` ` | Word                   |
 
 > Nếu ứng dụng đã mở sẵn, script sẽ **chuyển thẳng sang cửa sổ đó** thay vì mở thêm cái mới.
 
