@@ -47,3 +47,11 @@
     else
         Run "C:\Program Files\WindowsApps\52299SuperElement.119436511DDC8_7.2.2.0_neutral__792yctbvabkar\FocusToDo\FocusToDo.exe"
 }
+
+#`::
+{
+    if WinExist("ahk_exe WINWORD.EXE")
+        WinActivate
+    else
+        Run "winword.exe"
+}
