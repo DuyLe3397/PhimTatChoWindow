@@ -46,6 +46,14 @@
         Run "C:\Program Files\WindowsApps\52299SuperElement.119436511DDC8_7.2.2.0_neutral__792yctbvabkar\FocusToDo\FocusToDo.exe"
 }
 
+!3::
+{
+    if WinExist("Trang tính")
+        WinActivate "Trang tính"
+    else
+        Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ứng dụng Chrome\Trang tính.lnk"
+}
+
 !`::
 {
     if WinExist("ahk_exe WINWORD.EXE")
