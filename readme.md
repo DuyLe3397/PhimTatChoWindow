@@ -6,16 +6,17 @@ Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằn
 
 ## 🎯 Các phím tắt
 
-| Phím tắt    | Ứng dụng               |
-| ----------- | ---------------------- |
-| `Alt +Q `   | Visual Studio 2022     |
-| `Alt +W `   | Visual Studio Code     |
-| `Alt +A `   | Claude                 |
-| `Alt +S `   | ChatGPT                |
-| `Alt +1 `   | Google Docs (Tài liệu) |
-| `Alt +2 `   | Focus To-Do            |
-| `Alt +` `   | Word                   |
-| `Alt +Tab ` | Mở lại tab trước đó    |
+| Phím tắt    | Ứng dụng            |
+| ----------- | ------------------- |
+| `Alt +Q `   | Visual Studio 2022  |
+| `Alt +W `   | Visual Studio Code  |
+| `Alt +A `   | Claude              |
+| `Alt +S `   | ChatGPT             |
+| `Alt +1 `   | Google Docs         |
+| `Alt +2 `   | Focus To-Do         |
+| `Alt +3 `   | Google Excel        |
+| `Alt +` `   | Word                |
+| `Alt +Tab ` | Mở lại tab trước đó |
 
 > Nếu ứng dụng đã mở sẵn, script sẽ **chuyển thẳng sang cửa sổ đó** thay vì mở thêm cái mới.
 
