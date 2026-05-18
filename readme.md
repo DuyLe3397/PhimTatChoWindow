@@ -12,9 +12,9 @@ Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằn
 | `Alt +W `         | Visual Studio Code                                                                                     |
 | `Alt +A `         | Claude                                                                                                 |
 | `Alt +S `         | ChatGPT                                                                                                |
-| `Alt +1 `         | Google Docs                                                                                            |
+| `Alt +1 `         | Tài liệu                                                                                               |
 | `Alt +2 `         | Focus To-Do                                                                                            |
-| `Alt +3 `         | Google Excel                                                                                           |
+| `Alt +3 `         | Trang tính                                                                                             |
 | `Alt +` `         | Word                                                                                                   |
 | `Alt +Tab `       | Mở lại tab trước đó                                                                                    |
 | `Win +s `         | Mở nhanh chụp/quay màn hình                                                                            |
@@ -22,6 +22,8 @@ Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằn
 | `Win +v `         | Đây là bản nâng cấp của `Ctrl +v` bình thường chỉ paste vào nhưng mình có thể chọn cái cần và cả emoji |
 
 > Nếu ứng dụng đã mở sẵn, script sẽ **chuyển thẳng sang cửa sổ đó** thay vì mở thêm cái mới.
+
+> Chú ý là nếu tên của file word có từ "Tài liệu" thì nó sẽ dính vào cái "Tài liệu" đang được gán bằng `Alt +1` luôn
 
 ---
 
