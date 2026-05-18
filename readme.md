@@ -6,19 +6,20 @@ Script AutoHotkey giúp mở nhanh các ứng dụng thường dùng chỉ bằn
 
 ## 🎯 Các phím tắt
 
-| Phím tắt          | Ứng dụng                                                |
-| ----------------- | ------------------------------------------------------- |
-| `Alt +Q `         | Visual Studio 2022                                      |
-| `Alt +W `         | Visual Studio Code                                      |
-| `Alt +A `         | Claude                                                  |
-| `Alt +S `         | ChatGPT                                                 |
-| `Alt +1 `         | Google Docs                                             |
-| `Alt +2 `         | Focus To-Do                                             |
-| `Alt +3 `         | Google Excel                                            |
-| `Alt +` `         | Word                                                    |
-| `Alt +Tab `       | Mở lại tab trước đó                                     |
-| `Win +s `         | Mở nhanh chụp/quay màn hình                             |
-| `Win + shift +s ` | Mở nhanh chụp/quay màn hình nhưng giữ nguyên trạng thái |
+| Phím tắt          | Ứng dụng                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------ |
+| `Alt +Q `         | Visual Studio 2022                                                                                     |
+| `Alt +W `         | Visual Studio Code                                                                                     |
+| `Alt +A `         | Claude                                                                                                 |
+| `Alt +S `         | ChatGPT                                                                                                |
+| `Alt +1 `         | Google Docs                                                                                            |
+| `Alt +2 `         | Focus To-Do                                                                                            |
+| `Alt +3 `         | Google Excel                                                                                           |
+| `Alt +` `         | Word                                                                                                   |
+| `Alt +Tab `       | Mở lại tab trước đó                                                                                    |
+| `Win +s `         | Mở nhanh chụp/quay màn hình                                                                            |
+| `Win + shift +s ` | Mở nhanh chụp/quay màn hình nhưng giữ nguyên trạng thái                                                |
+| `Win +v `         | Đây là bản nâng cấp của `Ctrl +v` bình thường chỉ paste vào nhưng mình có thể chọn cái cần và cả emoji |
 
 > Nếu ứng dụng đã mở sẵn, script sẽ **chuyển thẳng sang cửa sổ đó** thay vì mở thêm cái mới.
 
