@@ -61,3 +61,11 @@
     else
         Run "winword.exe"
 }
+
+#s::
+{
+    if WinExist("ahk_exe SnippingTool.exe")
+        WinActivate
+    else
+        Run "C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2602.47.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe"
+}
