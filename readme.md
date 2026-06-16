@@ -67,13 +67,15 @@ Lấy đường dẫn shortcut đó rồi dán vào
 
 ---
 
-## 🔄 Tự khởi động cùng Windows (tuỳ chọn)
-
-Để script tự chạy mỗi khi bật máy, copy shortcut của file `.ahk` vào thư mục Startup:
-Để tìm nhanh nơi chứa file .exe thì trong cmd chạy lệnh: where SnippingTool.exe
+## Để script tự chạy mỗi khi bật máy, copy shortcut của file `.ahk` vào thư mục Startup:
 
 ```
 Win + R → gõ: shell:startup → Enter
 ```
 
 Paste shortcut vào thư mục vừa mở là xong
+
+## Để tìm nhanh nơi chứa file .exe thì trong cmd chạy lệnh: 
+```
+where SnippingTool.exe
+```
