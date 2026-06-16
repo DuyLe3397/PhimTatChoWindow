@@ -53,8 +53,11 @@ Double-click vào file `.ahk` là xong. Biểu tượng AutoHotkey sẽ xuất h
 
 ### Ứng dụng cài từ file `.exe`
 
-Dùng đường dẫn trực tiếp tới file `.exe` hoặc shortcut của nó. Cách đơn giản là chạy Task Terminal rồi Open file location
-
+Dùng đường dẫn trực tiếp tới file `.exe` hoặc shortcut của nó. Cách đơn giản là chạy Task Terminal rồi Open file location.
+Nếu không tìm được thì mở CMD và chạy lệnh:
+```
+where SnippingTool.exe
+```
 ### Ứng dụng là trang web (PWA)
 
 Với các trang như Claude, ChatGPT, Google Docs — mở trình duyệt và truy cập trang đó, sau đó:
@@ -74,8 +77,3 @@ Win + R → gõ: shell:startup → Enter
 ```
 
 Paste shortcut vào thư mục vừa mở là xong
-
-## Để tìm nhanh nơi chứa file .exe thì trong cmd chạy lệnh: 
-```
-where SnippingTool.exe
-```
