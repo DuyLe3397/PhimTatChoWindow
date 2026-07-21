@@ -1,4 +1,4 @@
-﻿!q::
+!q::
 {
     if WinExist("ahk_exe devenv.exe")
         WinActivate
@@ -12,6 +12,22 @@
         WinActivate
     else
         Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code\Visual Studio Code.lnk"
+}
+
+!z::
+{
+    if WinExist("ahk_exe Cursor.exe")
+        WinActivate
+    else
+        Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Cursor.lnk"
+}
+
+!x::
+{
+    if WinExist("ahk_exe Antigravity IDE.exe")
+        WinActivate
+    else
+        Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity IDE\Antigravity IDE.lnk"
 }
 
 !a::
@@ -28,6 +44,22 @@
         WinActivate "ChatGPT"
     else
         Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ứng dụng Chrome\ChatGPT.lnk"
+}
+
+!d::
+{
+    if WinExist("Kimi")
+        WinActivate "Kimi"
+    else
+        Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ứng dụng Chrome\Kimi.lnk"
+}
+
+!f::
+{
+    if WinExist("Z")
+        WinActivate "Z"
+    else
+        Run "C:\Users\runno\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ứng dụng Chrome\Z.lnk"
 }
 
 !1::
